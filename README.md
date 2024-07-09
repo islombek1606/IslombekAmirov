@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNweHhxeGFrMmtlbWtjdnB1azZ3dm55NnowbHJpNGZpZ3Z6cGlxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNweHhxeGFrMmtlbWtjdnB1azZ3dm55NnowbHJpNGZpZ3Z6cGlxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="400"/>
 </div>

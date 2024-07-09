@@ -15,5 +15,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNweHhxeGFrMmtlbWtjdnB1azZ3dm55NnowbHJpNGZpZ3Z6cGlxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="350"/>
 </div>
 
+<div align="center">
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+</div>
 

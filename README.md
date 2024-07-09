@@ -24,8 +24,8 @@
 </div>
 
 
-About Me 👌 :
-<hr class="line">
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Uzbekistan.</hr>
+About Me 👌:
+<hr class="line"></hr>
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Uzbekistan.
 
 

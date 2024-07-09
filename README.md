@@ -1,6 +1,6 @@
 # IslombekAmirov
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNwaTJxamFtYzd2MGQyb3B5aGZwaGlhdW9oZHg0Zmd3Nm4zbzd0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRlYWY3cXdwampocng2azlwcXg5ZTgwM2J4ZHQ3MXhsZThha3VuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hev8gFbbJKQehO4HkZ/giphy.gif" width="200"/>
 </div>
 
 

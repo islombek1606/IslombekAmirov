@@ -25,7 +25,8 @@
 
 
 <div align="center">
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+  About Me 👌 :
 </div>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-https://github.com/islombek1606
+
